@@ -6,7 +6,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://primexanarchy.net">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=E63946&center=true&vCenter=true&width=720&lines=The+Official+High-Performance+Minecraft+Anarchy+Client;Dual-Engine%3A+Fabric+Java+%2B+PrimE+Rust+Edition;Zero-Trust+Anti-Cheat+%7C+144-240%2B+FPS+Potato+Optimization;Join+Over+3%2C762%2B+Active+Warriors+on+play.primexanarchy.net" alt="PrimeX Anarchy Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=E63946&center=true&vCenter=true&width=740&lines=The+Official+High-Performance+Minecraft+Anarchy+Client;Dual-Engine%3A+Fabric+Java+%2B+PrimE+Rust+Edition;Zero-Trust+Anti-Cheat+%7C+144-240%2B+FPS+Potato+Optimization;Join+Over+50K%2B+Unique+Players+on+play.primexanarchy.net;3%2C762%2B+Discord+Community+Members" alt="PrimeX Anarchy Typing Subtitle" />
   </a>
 
   <br /><br />
@@ -14,6 +14,7 @@
   [![Latest Release](https://img.shields.io/github/v/release/primeXbunny/primex-launcher-releases?color=e63946&label=Release&logo=github&style=for-the-badge)](https://github.com/primeXbunny/primex-launcher-releases/releases/latest)
   [![Platform](https://img.shields.io/badge/Platform-Windows_x64-1f242c?logo=windows&logoColor=00adef&style=for-the-badge)](https://github.com/primeXbunny/primex-launcher-releases/releases/latest)
   [![Lead Developer](https://img.shields.io/badge/Lead_Developer-Bunny-ff0055?logo=github&style=for-the-badge)](https://github.com/primeXbunny)
+  [![Unique Players](https://img.shields.io/badge/Unique_Players-50K%2B-ffaa00?logo=minecraft&logoColor=white&style=for-the-badge)](https://primexanarchy.net)
   [![Discord](https://img.shields.io/badge/Community-3%2C762_Members-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pxa)
   [![Server IP](https://img.shields.io/badge/Server_IP-play.primexanarchy.net-00C853?logo=minecraft&logoColor=white&style=for-the-badge)](https://primexanarchy.net)
   [![Dual Engine](https://img.shields.io/badge/Engine-Fabric_Java_%2B_PrimE_Rust-e63946?logo=rust&logoColor=white&style=for-the-badge)](https://github.com/primeXbunny/primex-launcher-releases)
@@ -123,6 +124,7 @@ Join our official Discord community at **[discord.gg/pxa](https://discord.gg/pxa
 * **Server Infrastructure:** PrimeX Anarchy Network
 * **Website:** [primexanarchy.net](https://primexanarchy.net)
 * **Store:** [store.primexanarchy.net](https://store.primexanarchy.net)
+* **Player Community:** Joined by over **50,000+ Unique Players** (since 2020)
 * **Discord Community:** [discord.gg/pxa](https://discord.gg/pxa) (**3,762 Members** · 89 Online · since 2020)
 
 <br />
