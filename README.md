@@ -9,7 +9,7 @@
   [![Latest Release](https://img.shields.io/github/v/release/primeXbunny/primex-launcher-releases?color=e63946&label=Release&logo=github&style=for-the-badge)](https://github.com/primeXbunny/primex-launcher-releases/releases/latest)
   [![Platform](https://img.shields.io/badge/Platform-Windows_x64-1f242c?logo=windows&logoColor=00adef&style=for-the-badge)](https://github.com/primeXbunny/primex-launcher-releases/releases/latest)
   [![Lead Developer](https://img.shields.io/badge/Lead_Developer-Bunny-ff0055?logo=github&style=for-the-badge)](https://github.com/primeXbunny)
-  [![Discord](https://img.shields.io/badge/Community-5,000+_Online-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pxa)
+  [![Discord](https://img.shields.io/badge/Community-85_Members-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/pxa)
   [![Server IP](https://img.shields.io/badge/Server_IP-play.primexanarchy.net-00C853?style=for-the-badge)](https://primexanarchy.net)
 
   <br />
@@ -104,4 +104,5 @@ Join our official Discord community at **[discord.gg/pxa](https://discord.gg/pxa
 <div align="center">
   <sub>Copyright © 2026 PrimeX AnarchY Network. Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</sub>
 </div>
+
 
