@@ -21,6 +21,10 @@
   <a href="https://github.com/primeXbunny/primex-launcher-releases/releases/latest/download/PrimeX-Launcher.exe">
     <img src="https://img.shields.io/badge/📦_PORTABLE_STANDALONE_(EXE)-333333?style=for-the-badge&labelColor=111111&logo=windows&logoColor=white" height="40" alt="Download Portable Exe" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/pxa">
+    <img src="https://img.shields.io/badge/💬_JOIN_DISCORD-5865F2?style=for-the-badge&labelColor=181935&logo=discord&logoColor=white" height="40" alt="Join Discord Community" />
+  </a>
 
   <br /><br />
 
@@ -78,6 +82,13 @@ We actively track and resolve issues right here on GitHub!
 > [!NOTE]
 > All issues submitted here are reviewed directly by **Lead Developer Bunny** and the PrimeX engineering team!
 
+
+### 💬 Need Live Support?
+Join our official Discord community at **[discord.gg/pxa](https://discord.gg/pxa)**:
+* 🎧 **24/7 Support:** Instant help from moderators and players.
+* 📢 **Announcements:** Be the first to know about launcher updates and server events.
+* 🚀 **Direct Feedback:** Chat directly with **Lead Developer Bunny**!
+
 ---
 
 ## 👑 Team & Credits
@@ -93,3 +104,4 @@ We actively track and resolve issues right here on GitHub!
 <div align="center">
   <sub>Copyright © 2026 PrimeX AnarchY Network. Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</sub>
 </div>
+
