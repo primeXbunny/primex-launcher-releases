@@ -97,12 +97,13 @@ Join our official Discord community at **[discord.gg/pxa](https://discord.gg/pxa
 * **Server Infrastructure:** PrimeX Anarchy Network
 * **Website:** [primexanarchy.net](https://primexanarchy.net)
 * **Store:** [store.primexanarchy.net](https://store.primexanarchy.net)
-* **Discord Community:** [discord.gg/pxa](https://discord.gg/pxa)
+* **Discord Community:** [discord.gg/pxa](https://discord.gg/pxa) (3,745 Members · 63 Online · since 2020)
 
 ---
 
 <div align="center">
   <sub>Copyright © 2026 PrimeX AnarchY Network. Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.</sub>
 </div>
+
 
 
